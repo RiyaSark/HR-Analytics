@@ -4,7 +4,7 @@
 <H2>💼 The Task:  </H2>
 The task was to develop an interactive Power BI dashboard aimed at streamlining HR operations for Pinali Mandalia, who serves as the HR lead at AtliQ Technologies. This dynamic dashboard is designed to uncover actionable insights by visually presenting trends and patterns within the data, empowering informed, data-driven decision-making processes.
 
-🚀 <B>Note:</B> The dataset is provided by CodeBasics, where the data is for 3 months i.e. April, May, June of 2022. 
+🚀 <B>Note:</B> The dataset is provided by CodeBasics, where the data is for 3 months i.e. April, May, and June of 2022. 
 
 <H2>Requirements:</H2> 
 The specifications outlined by the HR manager are as follows:
@@ -30,7 +30,7 @@ We brought these metrics to life using Power BI. We designed a dynamic dashboard
 <H2>📌 Steps Followed: </H2>
 
 <OL>
-<LI><B> Data Cleaning and Data Transformation using Power Query:</B> Combine the data from multiple Excel sheets that has different column names into one usuable format, combined all the dates in multiple columns into one column,
+<LI><B> Data Cleaning and Data Transformation using Power Query:</B> Combine the data from multiple Excel sheets that have different column names into one usuable format, combine all the dates in multiple columns into one column,
 created custom columns etc.</LI>
 <LI><B> Dynamic Data Transformation:</B> Transforming data in dynamic way so that it works with new data as well.</LI>
 <LI><B> Creating Metrics using DAX:</B> Build KPIs- to build key performance indicators like Presence %, WFH %, SL % using different formulas.</LI>
